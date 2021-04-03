@@ -33,5 +33,13 @@ These maps display the starting and ending locations of trips in the city. The l
 ![start_locations](https://github.com/AndrewTymkiv/bikesharing/blob/main/images/start_locations.PNG)
 ![end_locations](https://github.com/AndrewTymkiv/bikesharing/blob/main/images/end_locations.PNG)
 
-#### 
-https://public.tableau.com/profile/andrew.tymkiv#!/vizhome/Citibike_Challenge_16173892940010/NYCCitibikeStory?publish=yes
+---
+
+## Summary
+Overall, the results from the analysis were not very surprising, mainly regarding peak riding times during the day and the locations where the rides occur. The biggest takeaways that should be noted when implementing the same program in Des Moines is that most bikes should be available during rush hour times before and after work when rides are more frequent, and the bikes should be located in the most populated areas. Furthermore, some efforts should be focused into making the bikeshare program more appealing to other genders as majority of rides are taken by males. Still, there could be some more analyses done to gather even more valuable information.
+
+First, we could look at how many bikes end up being used throughout the day to see if the supply of bikes is too low or too high. Next, it would also be helpful to analyze the age ranges of riders and see if a certain demographic is riding more than others.
+
+See the link below to view the Tableau dashboard and story.
+
+[link to dashboard](https://public.tableau.com/profile/andrew.tymkiv#!/vizhome/Citibike_Challenge_16173892940010/NYCCitibikeStory?publish=yes)
